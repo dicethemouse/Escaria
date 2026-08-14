@@ -1,0 +1,109 @@
+goods:
+  - { id: 1, name: Wood, tags: "construction,fuel", icon: good-wood, color: "#966F33", unit: pile }
+  - { id: 2, name: Stone, tags: "construction", icon: good-stone, color: "#979EA2", unit: pallet }
+  - { id: 3, name: Marble, tags: "construction,luxury", icon: good-marble, color: "#d6d0bf", unit: pallet }
+  - { id: 4, name: Iron, tags: "ore,military", icon: good-iron, color: "#5D686E", unit: wagon }
+  - { id: 5, name: Copper, tags: "ore", icon: good-copper, color: "#b87333", unit: wagon }
+  - { id: 6, name: Tin, tags: "ore", icon: good-tin, color: "#454343", unit: wagon }
+  - { id: 7, name: Silver, tags: "ore,luxury", icon: good-silver, color: "#C0C0C0", unit: bullion }
+  - { id: 8, name: Gold, tags: "ore,luxury", icon: good-gold, color: "#ffd700", unit: bullion }
+  - { id: 9, name: Grain, tags: "food", icon: good-grain, color: "#F5DEB3", unit: wain }
+  - { id: 10, name: Cattle, tags: "food", icon: good-cattle, color: "#56b000", unit: head }
+  - { id: 11, name: Fish, tags: "food,aquatic", icon: good-fish, color: "#7fcdff", unit: wain }
+  - { id: 12, name: Game, tags: "food", icon: good-game, color: "#c38a8a", unit: wain }
+  - { id: 13, name: Wine, tags: "food,luxury", icon: good-wine, color: "#963e48", unit: barrel }
+  - { id: 14, name: Olives, tags: "food", icon: good-olives, color: "#BDBD7D", unit: barrel }
+  - { id: 15, name: Honey, tags: "food,preservative", icon: good-honey, color: "#DCBC66", unit: barrel }
+  - { id: 16, name: Salt, tags: "preservative,mineral", icon: good-salt, color: "#E5E4E5", unit: bag }
+  - { id: 17, name: Dates, tags: "food", icon: good-dates, color: "#dbb2a3", unit: wain }
+  - { id: 18, name: Horses, tags: "supply,military", icon: good-horses, color: "#ba7447", unit: head }
+  - { id: 19, name: Elephants, tags: "supply,military", icon: good-elephants, color: "#C5CACD", unit: head }
+  - { id: 20, name: Camels, tags: "supply,military", icon: good-camels, color: "#C19A6B", unit: head }
+  - { id: 21, name: Hemp, tags: "clothing,naval", icon: good-hemp, color: "#069a06", unit: wain }
+  - { id: 22, name: Pearls, tags: "luxury,aquatic", icon: good-pearls, color: "#EAE0C8", unit: pearl }
+  - { id: 23, name: Gemstones, tags: "luxury,mineral", icon: good-gemstones, color: "#e463e4", unit: gem }
+  - { id: 24, name: Dyes, tags: "luxury", icon: good-dyes, color: "#fecdea", unit: bag }
+  - { id: 25, name: Incense, tags: "luxury,ritual", icon: good-incense, color: "#ebe5a7", unit: chest }
+  - { id: 26, name: Silk, tags: "luxury,clothing", icon: good-silk, color: "#e0f0f8", unit: bolt }
+  - { id: 27, name: Spices, tags: "luxury", icon: good-spices, color: "#e99c75", unit: chest }
+  - { id: 28, name: Amber, tags: "luxury", icon: good-amber, color: "#e68200", unit: stone }
+  - { id: 29, name: Furs, tags: "clothing,luxury", icon: good-furs, color: "#8a5e51", unit: pelt }
+  - { id: 30, name: Sheep, tags: "clothing", icon: good-sheep, color: "#53b574", unit: head }
+  - { id: 31, name: Slaves, tags: "supply", icon: good-slaves, color: "#757575", unit: slave }
+  - { id: 32, name: Tar, tags: "naval", icon: good-tar, color: "#727272", unit: barrel }
+  - { id: 33, name: Saltpeter, tags: "military,mineral", icon: good-saltpeter, color: "#e6e3e3", unit: barrel }
+  - { id: 34, name: Coal, tags: "fuel", icon: good-coal, color: "#5a6a75", unit: wain }
+  - { id: 35, name: Oil, tags: "fuel", icon: good-oil, color: "#565656", unit: barrel }
+  - { id: 36, name: Mahogany, tags: "luxury", icon: good-tropicalTimber, color: "#a45a52", unit: pile }
+  - { id: 37, name: Whales, tags: "food,aquatic,fuel", icon: good-whales, color: "#7fcdff", unit: barrel }
+  - { id: 38, name: Sugarcane, tags: "preservative,food", icon: good-sugar, color: "#7abf87", unit: bag }
+  - { id: 39, name: Tea, tags: "luxury", icon: good-tea, color: "#d0f0c0", unit: bag }
+  - { id: 40, name: Tobacco, tags: "luxury", icon: good-tobacco, color: "#6D5843", unit: bag }
+  - { id: 41, name: Clay, tags: "mineral,construction", icon: good-clay, color: "#b07c60", unit: wain }
+  - { id: 42, name: White sand, tags: "mineral", icon: good-sand, color: "#e6d69c", unit: wain }
+  - { id: 43, name: Leather, tags: "clothing,military", icon: good-leather, color: "#8b5a2b", unit: roll }
+  - { id: 44, name: Cloth, tags: "clothing", icon: good-cloth, color: "#e8e69c", unit: bolt }
+  - { id: 45, name: Garments, tags: "clothing", icon: good-garments, color: "#bd21ec", unit: set }
+  - { id: 46, name: Ceramics, tags: "storage,construction", icon: good-ceramics, color: "#c1440e", unit: wain }
+  - { id: 47, name: Glass, tags: "storage,construction", icon: good-glass, color: "#a0c8e8", unit: wain }
+  - { id: 48, name: Ropes, tags: "naval,construction", icon: good-ropes, color: "#ba9773", unit: coil }
+  - { id: 49, name: Paper, tags: "ritual,educational", icon: good-paper, color: "#f5f5dc", unit: ream }
+  - { id: 50, name: Ink, tags: "ritual,educational", icon: good-ink, color: "#000000", unit: bottle }
+  - { id: 51, name: Books, tags: "ritual,educational", icon: good-books, color: "#deb887", unit: volume }
+  - { id: 52, name: Sails, tags: "naval", icon: good-sails, color: "#ffffff", unit: set }
+  - { id: 53, name: Ships, tags: "naval", icon: good-ships, color: "#654321", unit: ship }
+  - { id: 54, name: Boots, tags: "clothing,military", icon: good-boots, color: "#654321", unit: pair }
+  - { id: 55, name: Harnesses, tags: "military", icon: good-harnesses, color: "#a0522d", unit: set }
+  - { id: 56, name: Barrels, tags: "naval,storage", icon: good-barrels, color: "#b46e3b", unit: barrel }
+  - { id: 57, name: Bronze, tags: "military", icon: good-bronze, color: "#e46f21", unit: wagon }
+  - { id: 58, name: Tools, tags: "construction,military", icon: good-tools, color: "#808080", unit: set }
+  - { id: 59, name: Arms, tags: "military", icon: good-arms, color: "#333333", unit: set }
+  - { id: 60, name: Gunpowder, tags: "military", icon: good-gunpowder, color: "#b0c4de", unit: barrel }
+  - { id: 61, name: Artillery, tags: "military", icon: good-artillery, color: "#cd7f32", unit: cannon }
+  - { id: 62, name: Coins, tags: "currency", icon: good-coins, color: "#ffd700", unit: bag }
+  - { id: 63, name: Jewelry, tags: "luxury", icon: good-jewelry, color: "#34861b", unit: piece }
+  - { id: 64, name: Preserved food, tags: "food", icon: good-salted-fish, color: "#c2b280", unit: wain }
+  - { id: 65, name: Vinegar, tags: "food,preservative", icon: good-vinegar, color: "#9b111e", unit: barrel }
+  - { id: 66, name: Cheese, tags: "food", icon: good-cheese, color: "#f5e1a4", unit: wain }
+  - { id: 67, name: Beer, tags: "food", icon: good-beer, color: "#fbb117", unit: barrel }
+  - { id: 68, name: Liquor, tags: "food,luxury", icon: good-liquor, color: "#8a0303", unit: vessel }
+  - { id: 69, name: Candles, tags: "luxury,ritual", icon: good-candles, color: "#fffacd", unit: block }
+  - { id: 70, name: Soap, tags: "luxury,ritual", icon: good-soap, color: "#e0e4cc", unit: barrel }
+  - { id: 71, name: Perfume, tags: "luxury,ritual", icon: good-perfume, color: "#ff69b4", unit: bottle }
+markets:
+  - { id: 1, centerBurgId: 6, color: "#eb8de7", goods: [] }
+  - { id: 2, centerBurgId: 15, color: "#5069d9", goods: [] }
+  - { id: 3, centerBurgId: 14, color: "#38f17a", goods: [] }
+  - { id: 4, centerBurgId: 593, color: "#fdb462", goods: [] }
+  - { id: 5, centerBurgId: 406, color: "#80b1d3", goods: [] }
+  - { id: 6, centerBurgId: 216, color: "#fb8072", goods: [] }
+  - { id: 7, centerBurgId: 8, color: "#f59f30", goods: [] }
+  - { id: 8, centerBurgId: 682, color: "#ffed6f", goods: [] }
+  - { id: 9, centerBurgId: 689, color: "#19d3b5", goods: [] }
+  - { id: 10, centerBurgId: 11, color: "#22e597", goods: [] }
+  - { id: 11, centerBurgId: 633, color: "#dababf", goods: [] }
+  - { id: 12, centerBurgId: 683, color: "#ccebc5", goods: [] }
+  - { id: 13, centerBurgId: 745, color: "#ff5572", goods: [] }
+  - { id: 14, centerBurgId: 769, color: "#1dbbcd", goods: [] }
+  - { id: 15, centerBurgId: 548, color: "#c6b9c1", goods: [] }
+  - { id: 16, centerBurgId: 641, color: "#923db3", goods: [] }
+  - { id: 17, centerBurgId: 306, color: "#29a0dd", goods: [] }
+  - { id: 18, centerBurgId: 16, color: "#bc80bd", goods: [] }
+  - { id: 19, centerBurgId: 201, color: "#ddbd30", goods: [] }
+  - { id: 20, centerBurgId: 467, color: "#b83cb0", goods: [] }
+  - { id: 21, centerBurgId: 372, color: "#b3de69", goods: [] }
+  - { id: 22, centerBurgId: 42, color: "#6252c5", goods: [] }
+  - { id: 23, centerBurgId: 356, color: "#83f557", goods: [] }
+  - { id: 24, centerBurgId: 349, color: "#ff823e", goods: [] }
+  - { id: 25, centerBurgId: 763, color: "#5af663", goods: [] }
+  - { id: 26, centerBurgId: 290, color: "#fccde5", goods: [] }
+  - { id: 27, centerBurgId: 322, color: "#c4d93e", goods: [] }
+  - { id: 28, centerBurgId: 173, color: "#f6478d", goods: [] }
+  - { id: 29, centerBurgId: 511, color: "#8dd3c7", goods: [] }
+  - { id: 30, centerBurgId: 163, color: "#6e40aa", goods: [] }
+  - { id: 31, centerBurgId: 768, color: "#3c84e1", goods: [] }
+  - { id: 32, centerBurgId: 203, color: "#da3fa3", goods: [] }
+  - { id: 33, centerBurgId: 537, color: "#ff6956", goods: [] }
+  - { id: 34, centerBurgId: 136, color: "#aff05b", goods: [] }
+
+
