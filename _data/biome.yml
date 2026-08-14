@@ -1,0 +1,26 @@
+- id: 0
+  name: Water
+- id: 1
+  name: Hot desert
+- id: 2
+  name: Cold desert
+- id: 3
+  name: Savanna
+- id: 4
+  name: Grassland
+- id: 5
+  name: Tropical seasonal forest
+- id: 6
+  name: Temperate deciduous forest
+- id: 7
+  name: Tropical rainforest
+- id: 8
+  name: Temperate rainforest
+- id: 9
+  name: Taiga
+- id: 10
+  name: Tundra
+- id: 11
+  name: Glacier
+- id: 12
+  name: Wetland
