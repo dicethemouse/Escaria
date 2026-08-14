@@ -1,0 +1,6 @@
+exclude:
+  - source
+  - scripts
+  - README.md
+  - Gemfile
+  - Gemfile.lock

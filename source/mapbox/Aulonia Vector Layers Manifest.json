@@ -1,0 +1,39 @@
+{
+  "name": "Aulonia Mapbox vector package",
+  "generator": "build_aulonia_mapbox_geojson.py",
+  "generator_version": "1.0.0",
+  "source_map": "Aulonia",
+  "source_exported_at": "2026-08-12T09:47:15.339Z",
+  "counts": {
+    "states": 19,
+    "provinces": 300,
+    "lakes": 62,
+    "rivers": 1142,
+    "lake_labels": 62,
+    "routes": 838,
+    "settlements": 768,
+    "state_labels": 19,
+    "province_labels": 300,
+    "markers": 210,
+    "military": 274
+  },
+  "excluded_removed": {
+    "settlements": 7,
+    "provinces": 4
+  },
+  "authoritative_sources": {
+    "settlement_coordinates": "Aulonia Burgs 2026-08-13-20-15.csv",
+    "route_names": "Aulonia Routes 2026-08-13-20-16.csv",
+    "route_geometry": "Aulonia Routes 2026-08-12-11-47.geojson",
+    "river_geometry": "Aulonia Rivers 2026-08-12-11-47.geojson",
+    "marker_geometry": "Aulonia Markers 2026-08-12-11-47.geojson"
+  },
+  "files": [
+    "Aulonia Admin Areas.geojson",
+    "Aulonia Lakes.geojson",
+    "Aulonia Hydro Lines.geojson",
+    "Aulonia Routes Vector.geojson",
+    "Aulonia Settlements Labels.geojson",
+    "Aulonia POIs.geojson"
+  ]
+}

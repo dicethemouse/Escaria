@@ -1,0 +1,48 @@
+---
+# BEGIN AULONIA AUTO-GENERATED DATA
+title: "Fluortengenese Waterfall"
+entity_id: "poi:marker:56"
+source_id: "marker56"
+category: "poi"
+subtype: "waterfalls"
+status: "active"
+searchable: true
+coordinates:
+  - -11.1827
+  - 27.4533
+bbox:
+  - -11.1827
+  - 27.4533
+  - -11.1827
+  - 27.4533
+map_zoom: 11
+generated_by: "build_aulonia_collections.py 1.1.0"
+poi_group: "marker"
+poi_type: "waterfalls"
+icon: "⟱"
+description: "The cascades of a stunning waterfall."
+cell_id: 20625
+state_id: 8
+state_name: "Tutachinia"
+province_id: 75
+province_name: "Belternia"
+culture_id: 1
+culture_name: "Shwazen"
+religion_id: 16
+religion_name: "Shwazen Religion"
+biome_id: 12
+biome_name: "Wetland"
+height_m: 1225
+dy: 54
+px: 16
+# END AULONIA AUTO-GENERATED DATA
+aliases: []
+search_terms: []
+summary: ""
+---
+
+## Beschreibung
+
+
+
+## Geschichte
