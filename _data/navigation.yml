@@ -1,0 +1,26 @@
+- title: Karte
+  url: /map/
+
+- title: Staaten
+  url: /states/
+
+- title: Provinzen
+  url: /provinces/
+
+- title: Siedlungen
+  url: /settlements/
+
+- title: Märkte
+  url: /markets/
+
+- title: Flüsse
+  url: /rivers/
+
+- title: Seen
+  url: /lakes/
+
+- title: Routen
+  url: /routes/
+
+- title: Orte
+  url: /pois/

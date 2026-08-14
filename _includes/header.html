@@ -1,0 +1,19 @@
+<header class="site-header">
+
+  <a
+    class="site-brand"
+    href="{{ '/' | relative_url }}">
+    Aulonia
+  </a>
+
+  <nav class="site-navigation" aria-label="Hauptnavigation">
+
+    {% for item in site.data.navigation %}
+      <a href="{{ item.url | relative_url }}">
+        {{ item.title }}
+      </a>
+    {% endfor %}
+
+  </nav>
+
+</header>
