@@ -1,6 +1,116 @@
+title: Aulonia
+description: Interaktive Karte und Enzyklopädie der Fantasywelt Aulonia
+
+lang: de-DE
+
+# Bei einer Project Page später z. B.:
+# url: "https://dicemouse.github.io"
+# baseurl: "/aulonia"
+
+url: ""
+baseurl: ""
+
+markdown: kramdown
+
+collections:
+  states:
+    output: true
+    permalink: /states/:name/
+
+  provinces:
+    output: true
+    permalink: /provinces/:name/
+
+  settlements:
+    output: true
+    permalink: /settlements/:name/
+
+  markets:
+    output: true
+    permalink: /markets/:name/
+
+  rivers:
+    output: true
+    permalink: /rivers/:name/
+
+  lakes:
+    output: true
+    permalink: /lakes/:name/
+
+  routes:
+    output: true
+    permalink: /routes/:name/
+
+  pois:
+    output: true
+    permalink: /pois/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+  - scope:
+      path: ""
+      type: states
+    values:
+      layout: entity
+      entity_type_label: Staat
+
+  - scope:
+      path: ""
+      type: provinces
+    values:
+      layout: entity
+      entity_type_label: Provinz
+
+  - scope:
+      path: ""
+      type: settlements
+    values:
+      layout: entity
+      entity_type_label: Siedlung
+
+  - scope:
+      path: ""
+      type: markets
+    values:
+      layout: entity
+      entity_type_label: Markt
+
+  - scope:
+      path: ""
+      type: rivers
+    values:
+      layout: entity
+      entity_type_label: Fluss
+
+  - scope:
+      path: ""
+      type: lakes
+    values:
+      layout: entity
+      entity_type_label: See
+
+  - scope:
+      path: ""
+      type: routes
+    values:
+      layout: entity
+      entity_type_label: Route
+
+  - scope:
+      path: ""
+      type: pois
+    values:
+      layout: entity
+      entity_type_label: POI
+
 exclude:
-  - source
+  - source_data
   - scripts
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor
