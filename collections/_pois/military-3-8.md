@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "9th (Chortilia) Regiment"
 entity_id: "poi:military:3:8"
 source_id: "3:8"

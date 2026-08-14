@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Wingengen Portal"
 entity_id: "poi:marker:189"
 source_id: "marker189"

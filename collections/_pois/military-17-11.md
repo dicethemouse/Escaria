@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "12th (Castinia) Regiment"
 entity_id: "poi:military:17:11"
 source_id: "17:11"

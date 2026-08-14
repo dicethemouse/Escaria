@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "8th (Vellena) Regiment"
 entity_id: "poi:military:6:7"
 source_id: "6:7"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "13th (Kalteli) Regiment"
 entity_id: "poi:military:17:12"
 source_id: "17:12"

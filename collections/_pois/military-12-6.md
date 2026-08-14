@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "7th (Ayaneli) Regiment"
 entity_id: "poi:military:12:6"
 source_id: "12:6"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Vienvilles — gold mining town"
 entity_id: "poi:marker:11"
 source_id: "marker11"

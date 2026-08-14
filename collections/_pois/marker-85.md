@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Alte Monster"
 entity_id: "poi:marker:85"
 source_id: "marker85"

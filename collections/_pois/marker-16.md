@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Emirkesenese Lighthouse"
 entity_id: "poi:marker:16"
 source_id: "marker16"

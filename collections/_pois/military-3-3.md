@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Fertia) Regiment"
 entity_id: "poi:military:3:3"
 source_id: "3:3"

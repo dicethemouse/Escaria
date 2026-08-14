@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Menesjah Battlefield"
 entity_id: "poi:marker:60"
 source_id: "marker60"

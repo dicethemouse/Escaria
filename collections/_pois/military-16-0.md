@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Amphia) Regiment"
 entity_id: "poi:military:16:0"
 source_id: "16:0"

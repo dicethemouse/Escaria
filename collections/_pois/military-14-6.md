@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "7th (Yalbe) Regiment"
 entity_id: "poi:military:14:6"
 source_id: "14:6"

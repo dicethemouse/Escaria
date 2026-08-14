@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Yerinte Portal"
 entity_id: "poi:marker:191"
 source_id: "marker191"

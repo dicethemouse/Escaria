@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Suole Runestone"
 entity_id: "poi:marker:138"
 source_id: "marker138"

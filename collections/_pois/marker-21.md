@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Achian Lighthouse"
 entity_id: "poi:marker:21"
 source_id: "marker21"

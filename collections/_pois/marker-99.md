@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Bothehover Monster"
 entity_id: "poi:marker:99"
 source_id: "marker99"

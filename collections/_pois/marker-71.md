@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kuslach Battlefield"
 entity_id: "poi:marker:71"
 source_id: "marker71"

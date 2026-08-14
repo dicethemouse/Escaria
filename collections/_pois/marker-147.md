@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Allalidado Monolith"
 entity_id: "poi:marker:147"
 source_id: "marker147"

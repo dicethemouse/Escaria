@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Cliford Bridge"
 entity_id: "poi:marker:13"
 source_id: "marker13"

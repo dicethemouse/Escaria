@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "12th (Ytelen) Regiment"
 entity_id: "poi:military:12:11"
 source_id: "12:11"

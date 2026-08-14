@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Tetrymouth Lighthouse"
 entity_id: "poi:marker:32"
 source_id: "marker32"

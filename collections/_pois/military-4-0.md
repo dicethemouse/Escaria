@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Inwenfartsea) Regiment"
 entity_id: "poi:military:4:0"
 source_id: "4:0"

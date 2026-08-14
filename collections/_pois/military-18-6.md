@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "7th (Strausia) Regiment"
 entity_id: "poi:military:18:6"
 source_id: "18:6"

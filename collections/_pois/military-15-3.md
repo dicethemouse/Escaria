@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Derenkor) Regiment"
 entity_id: "poi:military:15:3"
 source_id: "15:3"

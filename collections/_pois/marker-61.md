@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Mheavon Battlefield"
 entity_id: "poi:marker:61"
 source_id: "marker61"

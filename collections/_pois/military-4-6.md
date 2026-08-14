@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "7th (Agosindyria) Regiment"
 entity_id: "poi:military:4:6"
 source_id: "4:6"

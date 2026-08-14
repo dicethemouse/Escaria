@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Degaicarnia) Regiment"
 entity_id: "poi:military:16:5"
 source_id: "16:5"

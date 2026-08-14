@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "10th (Yaninok) Regiment"
 entity_id: "poi:military:14:9"
 source_id: "14:9"

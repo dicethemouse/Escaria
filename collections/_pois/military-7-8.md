@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "9th (Cleoleshole) Regiment"
 entity_id: "poi:military:7:8"
 source_id: "7:8"

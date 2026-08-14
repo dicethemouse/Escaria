@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "5th (Olingia) Regiment"
 entity_id: "poi:military:19:4"
 source_id: "19:4"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "10th (Trino) Regiment"
 entity_id: "poi:military:6:9"
 source_id: "6:9"

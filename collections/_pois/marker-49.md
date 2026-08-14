@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Bolletan Lighthouse"
 entity_id: "poi:marker:49"
 source_id: "marker49"

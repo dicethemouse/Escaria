@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kaumamaama Forest"
 entity_id: "poi:marker:123"
 source_id: "marker123"

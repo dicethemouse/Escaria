@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Venvillian Lighthouse"
 entity_id: "poi:marker:39"
 source_id: "marker39"

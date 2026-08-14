@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Barcotian Lighthouse"
 entity_id: "poi:marker:27"
 source_id: "marker27"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Sivrek) Regiment"
 entity_id: "poi:military:12:0"
 source_id: "12:0"

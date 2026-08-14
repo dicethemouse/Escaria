@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "16th (Yeneri) Regiment"
 entity_id: "poi:military:12:15"
 source_id: "12:15"

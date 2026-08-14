@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Elzheim Forest"
 entity_id: "poi:marker:111"
 source_id: "marker111"

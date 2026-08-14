@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Albron Monster"
 entity_id: "poi:marker:86"
 source_id: "marker86"

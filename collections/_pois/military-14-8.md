@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "9th (Umanyurt) Regiment"
 entity_id: "poi:military:14:8"
 source_id: "14:8"

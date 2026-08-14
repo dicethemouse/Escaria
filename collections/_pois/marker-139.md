@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Clifnalton Monument"
 entity_id: "poi:marker:139"
 source_id: "marker139"

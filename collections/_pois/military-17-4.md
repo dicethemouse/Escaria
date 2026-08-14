@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "5th (Dodurbyurt) Regiment"
 entity_id: "poi:military:17:4"
 source_id: "17:4"

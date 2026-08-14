@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Capra) Regiment"
 entity_id: "poi:military:6:0"
 source_id: "6:0"

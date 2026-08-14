@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Schaldenia) Regiment"
 entity_id: "poi:military:9:2"
 source_id: "9:2"

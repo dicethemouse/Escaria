@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "8th (Hitchia) Regiment"
 entity_id: "poi:military:16:7"
 source_id: "16:7"

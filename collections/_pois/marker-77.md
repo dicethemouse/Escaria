@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Frevolieulu Battlefield"
 entity_id: "poi:marker:77"
 source_id: "marker77"

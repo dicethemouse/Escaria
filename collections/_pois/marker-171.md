@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ruined Stronghold"
 entity_id: "poi:marker:171"
 source_id: "marker171"

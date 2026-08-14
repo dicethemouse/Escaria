@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "21st (Maldock) Regiment"
 entity_id: "poi:military:19:20"
 source_id: "19:20"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Hertry Graveyard"
 entity_id: "poi:marker:207"
 source_id: "marker207"

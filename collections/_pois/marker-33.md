@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Sendyran Lighthouse"
 entity_id: "poi:marker:33"
 source_id: "marker33"

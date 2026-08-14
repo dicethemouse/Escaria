@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Newleigh Monster"
 entity_id: "poi:marker:89"
 source_id: "marker89"

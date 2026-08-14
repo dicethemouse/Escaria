@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ayli Battlefield"
 entity_id: "poi:marker:57"
 source_id: "marker57"

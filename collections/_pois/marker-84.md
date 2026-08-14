@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kavonverowen Monster"
 entity_id: "poi:marker:84"
 source_id: "marker84"

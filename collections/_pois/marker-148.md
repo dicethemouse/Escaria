@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Abergornant Idol"
 entity_id: "poi:marker:148"
 source_id: "marker148"

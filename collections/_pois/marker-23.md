@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Lucustelpian Lighthouse"
 entity_id: "poi:marker:23"
 source_id: "marker23"

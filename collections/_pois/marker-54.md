@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Niederkenese Waterfall"
 entity_id: "poi:marker:54"
 source_id: "marker54"

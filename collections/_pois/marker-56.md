@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Fluortengenese Waterfall"
 entity_id: "poi:marker:56"
 source_id: "marker56"

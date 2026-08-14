@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Tuunapuavan Lighthouse"
 entity_id: "poi:marker:38"
 source_id: "marker38"

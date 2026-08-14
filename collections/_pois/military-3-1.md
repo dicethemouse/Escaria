@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Araberfania) Regiment"
 entity_id: "poi:military:3:1"
 source_id: "3:1"

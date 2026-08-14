@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Sherskirk Monster"
 entity_id: "poi:marker:92"
 source_id: "marker92"

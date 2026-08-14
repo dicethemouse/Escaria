@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Kurania) Regiment"
 entity_id: "poi:military:10:1"
 source_id: "10:1"

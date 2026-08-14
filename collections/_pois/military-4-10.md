@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "11th (Agosindyria) Regiment"
 entity_id: "poi:military:4:10"
 source_id: "4:10"

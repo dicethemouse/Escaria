@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Enizdyurt) Regiment"
 entity_id: "poi:military:1:1"
 source_id: "1:1"

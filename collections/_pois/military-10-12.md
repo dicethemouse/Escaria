@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "13th (New Sasjarvia) Regiment"
 entity_id: "poi:military:10:12"
 source_id: "10:12"

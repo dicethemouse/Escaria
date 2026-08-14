@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Draxtedia) Regiment"
 entity_id: "poi:military:5:5"
 source_id: "5:5"

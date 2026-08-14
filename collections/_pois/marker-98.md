@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Gutachenburg Hydra"
 entity_id: "poi:marker:98"
 source_id: "marker98"

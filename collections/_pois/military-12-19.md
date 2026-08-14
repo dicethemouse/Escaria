@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "20th (Kesenbyurt) Regiment"
 entity_id: "poi:military:12:19"
 source_id: "12:19"

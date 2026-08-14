@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Elen Crypt"
 entity_id: "poi:marker:205"
 source_id: "marker205"

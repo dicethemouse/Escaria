@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "17th (Valle) Regiment"
 entity_id: "poi:military:17:16"
 source_id: "17:16"

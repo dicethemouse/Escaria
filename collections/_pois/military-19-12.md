@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "13th (Olingia) Regiment"
 entity_id: "poi:military:19:12"
 source_id: "19:12"

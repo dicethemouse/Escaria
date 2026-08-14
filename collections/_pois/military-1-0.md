@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Haudenster) Regiment"
 entity_id: "poi:military:1:0"
 source_id: "1:0"

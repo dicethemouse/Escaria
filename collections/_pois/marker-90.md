@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Burymock Monster"
 entity_id: "poi:marker:90"
 source_id: "marker90"

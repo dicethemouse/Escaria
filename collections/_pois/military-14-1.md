@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Azozesbey) Regiment"
 entity_id: "poi:military:14:1"
 source_id: "14:1"

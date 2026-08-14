@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Foliveton"
 entity_id: "poi:marker:0"
 source_id: "marker0"

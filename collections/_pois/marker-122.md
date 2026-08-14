@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ekibaydi Forest"
 entity_id: "poi:marker:122"
 source_id: "marker122"

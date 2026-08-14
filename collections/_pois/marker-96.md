@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Netersto Dragon"
 entity_id: "poi:marker:96"
 source_id: "marker96"

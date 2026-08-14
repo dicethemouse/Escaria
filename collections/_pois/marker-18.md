@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Delian Lighthouse"
 entity_id: "poi:marker:18"
 source_id: "marker18"

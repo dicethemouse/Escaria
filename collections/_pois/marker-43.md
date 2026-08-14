@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Lillosan Lighthouse"
 entity_id: "poi:marker:43"
 source_id: "marker43"

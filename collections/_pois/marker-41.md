@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Sarpkoynak Lighthouse"
 entity_id: "poi:marker:41"
 source_id: "marker41"

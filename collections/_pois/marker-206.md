@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Tutosch Tomb"
 entity_id: "poi:marker:206"
 source_id: "marker206"

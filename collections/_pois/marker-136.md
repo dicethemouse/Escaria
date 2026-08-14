@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Balbeynuz Runestone"
 entity_id: "poi:marker:136"
 source_id: "marker136"

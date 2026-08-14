@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ladon Archive"
 entity_id: "poi:marker:176"
 source_id: "marker176"

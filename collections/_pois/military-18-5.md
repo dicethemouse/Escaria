@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Enesetia) Regiment"
 entity_id: "poi:military:18:5"
 source_id: "18:5"

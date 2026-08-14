@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Mebemoshe Forest"
 entity_id: "poi:marker:120"
 source_id: "marker120"

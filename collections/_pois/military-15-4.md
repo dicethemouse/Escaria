@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "5th (New Secilbenzon) Regiment"
 entity_id: "poi:military:15:4"
 source_id: "15:4"

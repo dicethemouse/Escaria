@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Vantignelly — salt mining town"
 entity_id: "poi:marker:10"
 source_id: "marker10"

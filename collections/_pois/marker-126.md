@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Yazsu Forest"
 entity_id: "poi:marker:126"
 source_id: "marker126"

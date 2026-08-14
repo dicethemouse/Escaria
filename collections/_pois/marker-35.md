@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Proroneran Lighthouse"
 entity_id: "poi:marker:35"
 source_id: "marker35"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kalgekin Runestone"
 entity_id: "poi:marker:129"
 source_id: "marker129"

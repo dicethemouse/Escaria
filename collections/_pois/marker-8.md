@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Onenka Healing Stream"
 entity_id: "poi:marker:8"
 source_id: "marker8"

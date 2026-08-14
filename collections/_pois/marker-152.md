@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ruined Outpost"
 entity_id: "poi:marker:152"
 source_id: "marker152"

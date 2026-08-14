@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kadanoguz Statue"
 entity_id: "poi:marker:132"
 source_id: "marker132"

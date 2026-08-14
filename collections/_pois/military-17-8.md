@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "9th (Heruesia) Regiment"
 entity_id: "poi:military:17:8"
 source_id: "17:8"

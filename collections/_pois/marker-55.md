@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Muhringendinese Waterfall"
 entity_id: "poi:marker:55"
 source_id: "marker55"

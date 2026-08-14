@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Desente Battlefield"
 entity_id: "poi:marker:70"
 source_id: "marker70"

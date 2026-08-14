@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Bridensey Lighthouse"
 entity_id: "poi:marker:47"
 source_id: "marker47"

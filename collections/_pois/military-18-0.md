@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Leinia) Regiment"
 entity_id: "poi:military:18:0"
 source_id: "18:0"

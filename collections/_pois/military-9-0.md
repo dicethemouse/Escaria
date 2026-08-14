@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Selstadt) Regiment"
 entity_id: "poi:military:9:0"
 source_id: "9:0"

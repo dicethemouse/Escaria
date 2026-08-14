@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Hovden Battlefield"
 entity_id: "poi:marker:73"
 source_id: "marker73"

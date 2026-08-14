@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Bokehamia) Regiment"
 entity_id: "poi:military:5:0"
 source_id: "5:0"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Allos Portal"
 entity_id: "poi:marker:186"
 source_id: "marker186"

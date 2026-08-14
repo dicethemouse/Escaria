@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "22nd (Kozyoltay) Regiment"
 entity_id: "poi:military:12:21"
 source_id: "12:21"

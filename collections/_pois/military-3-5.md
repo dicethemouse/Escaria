@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Bouaigaiglos) Regiment"
 entity_id: "poi:military:3:5"
 source_id: "3:5"

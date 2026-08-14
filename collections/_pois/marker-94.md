@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Westley Monster"
 entity_id: "poi:marker:94"
 source_id: "marker94"

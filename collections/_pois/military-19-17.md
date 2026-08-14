@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "18th (Stalia) Regiment"
 entity_id: "poi:military:19:17"
 source_id: "19:17"

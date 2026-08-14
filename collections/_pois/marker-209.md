@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Thatcles Necropolis"
 entity_id: "poi:marker:209"
 source_id: "marker209"

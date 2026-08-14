@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Fonces) Regiment"
 entity_id: "poi:military:2:2"
 source_id: "2:2"

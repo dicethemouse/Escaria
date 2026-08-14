@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Monteou Forest"
 entity_id: "poi:marker:108"
 source_id: "marker108"

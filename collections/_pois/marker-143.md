@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Buyvarkil Pillar"
 entity_id: "poi:marker:143"
 source_id: "marker143"

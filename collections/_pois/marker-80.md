@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Yedi Battlefield"
 entity_id: "poi:marker:80"
 source_id: "marker80"

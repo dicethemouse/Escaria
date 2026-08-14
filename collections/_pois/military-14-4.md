@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "5th (Yeli) Regiment"
 entity_id: "poi:military:14:4"
 source_id: "14:4"

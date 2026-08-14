@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Exningdon Bridge"
 entity_id: "poi:marker:14"
 source_id: "marker14"

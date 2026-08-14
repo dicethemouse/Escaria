@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Akalazbey Forest"
 entity_id: "poi:marker:121"
 source_id: "marker121"

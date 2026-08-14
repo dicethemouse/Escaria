@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Paisa) Regiment"
 entity_id: "poi:military:12:1"
 source_id: "12:1"

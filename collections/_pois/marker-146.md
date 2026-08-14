@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Aslan Megalith"
 entity_id: "poi:marker:146"
 source_id: "marker146"

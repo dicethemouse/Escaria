@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Marnolarivig Forest"
 entity_id: "poi:marker:110"
 source_id: "marker110"

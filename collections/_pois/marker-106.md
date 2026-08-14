@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Schopel Forest"
 entity_id: "poi:marker:106"
 source_id: "marker106"

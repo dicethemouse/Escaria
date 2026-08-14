@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kamedakka Battlefield"
 entity_id: "poi:marker:62"
 source_id: "marker62"

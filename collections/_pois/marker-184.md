@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Linbury Portal"
 entity_id: "poi:marker:184"
 source_id: "marker184"

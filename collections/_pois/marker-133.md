@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Brouy Pillar"
 entity_id: "poi:marker:133"
 source_id: "marker133"

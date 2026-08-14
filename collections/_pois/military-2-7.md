@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "8th (Hvamsund) Regiment"
 entity_id: "poi:military:2:7"
 source_id: "2:7"

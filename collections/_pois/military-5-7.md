@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "8th (Roskia) Regiment"
 entity_id: "poi:military:5:7"
 source_id: "5:7"

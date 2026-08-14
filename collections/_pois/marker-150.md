@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ruined Pyramid"
 entity_id: "poi:marker:150"
 source_id: "marker150"

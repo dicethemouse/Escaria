@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Conterra) Regiment"
 entity_id: "poi:military:6:1"
 source_id: "6:1"

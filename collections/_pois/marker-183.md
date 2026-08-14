@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Torrinosoce Portal"
 entity_id: "poi:marker:183"
 source_id: "marker183"

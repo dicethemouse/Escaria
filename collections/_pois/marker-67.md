@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kortelibi Battlefield"
 entity_id: "poi:marker:67"
 source_id: "marker67"

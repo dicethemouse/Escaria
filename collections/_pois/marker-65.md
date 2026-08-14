@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Clifton Battlefield"
 entity_id: "poi:marker:65"
 source_id: "marker65"

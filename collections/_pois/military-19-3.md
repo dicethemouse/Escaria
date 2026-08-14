@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Halnia) Regiment"
 entity_id: "poi:military:19:3"
 source_id: "19:3"

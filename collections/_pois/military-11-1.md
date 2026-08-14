@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Giupolia) Regiment"
 entity_id: "poi:military:11:1"
 source_id: "11:1"

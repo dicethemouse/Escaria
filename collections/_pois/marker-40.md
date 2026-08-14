@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Preoulise Lighthouse"
 entity_id: "poi:marker:40"
 source_id: "marker40"

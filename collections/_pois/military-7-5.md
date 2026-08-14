@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Altnesterby) Regiment"
 entity_id: "poi:military:7:5"
 source_id: "7:5"

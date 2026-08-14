@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd Fleet"
 entity_id: "poi:military:2:17"
 source_id: "2:17"

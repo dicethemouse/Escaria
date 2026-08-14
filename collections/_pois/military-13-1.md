@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Combrechienia) Regiment"
 entity_id: "poi:military:13:1"
 source_id: "13:1"

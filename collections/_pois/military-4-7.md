@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "8th (Laion) Regiment"
 entity_id: "poi:military:4:7"
 source_id: "4:7"

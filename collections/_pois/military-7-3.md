@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Skiptonbury) Regiment"
 entity_id: "poi:military:7:3"
 source_id: "7:3"

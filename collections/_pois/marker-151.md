@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ruined City"
 entity_id: "poi:marker:151"
 source_id: "marker151"

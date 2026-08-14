@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Bellean Lighthouse"
 entity_id: "poi:marker:34"
 source_id: "marker34"

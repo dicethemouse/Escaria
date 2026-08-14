@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Shifton Bridge"
 entity_id: "poi:marker:15"
 source_id: "marker15"

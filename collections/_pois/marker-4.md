@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Enayay Hot Springs"
 entity_id: "poi:marker:4"
 source_id: "marker4"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Toprak) Regiment"
 entity_id: "poi:military:17:1"
 source_id: "17:1"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "17th (Erkanesen) Regiment"
 entity_id: "poi:military:12:16"
 source_id: "12:16"

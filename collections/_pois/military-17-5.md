@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Kaltaylyurt) Regiment"
 entity_id: "poi:military:17:5"
 source_id: "17:5"

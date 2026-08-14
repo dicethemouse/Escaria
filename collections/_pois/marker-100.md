@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ylakoski Hydra"
 entity_id: "poi:marker:100"
 source_id: "marker100"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "10th (Linbury) Regiment"
 entity_id: "poi:military:19:9"
 source_id: "19:9"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Llandona Monument"
 entity_id: "poi:marker:135"
 source_id: "marker135"

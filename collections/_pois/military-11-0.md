@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Lantaimancheb) Regiment"
 entity_id: "poi:military:11:0"
 source_id: "11:0"

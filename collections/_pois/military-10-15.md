@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "16th (New Turanmaa) Regiment"
 entity_id: "poi:military:10:15"
 source_id: "10:15"

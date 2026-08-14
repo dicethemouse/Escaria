@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Southeria) Regiment"
 entity_id: "poi:military:19:0"
 source_id: "19:0"

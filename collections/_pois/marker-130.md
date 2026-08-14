@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kuuni Megalith"
 entity_id: "poi:marker:130"
 source_id: "marker130"

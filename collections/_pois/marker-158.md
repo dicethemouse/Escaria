@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ruined Fortress"
 entity_id: "poi:marker:158"
 source_id: "marker158"

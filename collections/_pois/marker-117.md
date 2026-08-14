@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Devreka Forest"
 entity_id: "poi:marker:117"
 source_id: "marker117"

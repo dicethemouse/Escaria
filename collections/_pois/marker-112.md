@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Chadon Forest"
 entity_id: "poi:marker:112"
 source_id: "marker112"

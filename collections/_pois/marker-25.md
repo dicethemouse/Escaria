@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Santesarcelese Lighthouse"
 entity_id: "poi:marker:25"
 source_id: "marker25"

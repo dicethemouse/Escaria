@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ruined Temple"
 entity_id: "poi:marker:159"
 source_id: "marker159"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Erselenyurt) Regiment"
 entity_id: "poi:military:14:2"
 source_id: "14:2"

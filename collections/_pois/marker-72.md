@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Rocciavigno Battlefield"
 entity_id: "poi:marker:72"
 source_id: "marker72"

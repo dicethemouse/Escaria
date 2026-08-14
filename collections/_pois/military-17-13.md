@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "14th (Macumia) Regiment"
 entity_id: "poi:military:17:13"
 source_id: "17:13"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Bilkalada Idol"
 entity_id: "poi:marker:140"
 source_id: "marker140"

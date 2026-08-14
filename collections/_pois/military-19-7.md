@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "8th (Cheria) Regiment"
 entity_id: "poi:military:19:7"
 source_id: "19:7"

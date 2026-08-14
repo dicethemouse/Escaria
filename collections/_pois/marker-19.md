@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Pespocenanian Lighthouse"
 entity_id: "poi:marker:19"
 source_id: "marker19"

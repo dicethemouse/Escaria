@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Albrorough Battlefield"
 entity_id: "poi:marker:59"
 source_id: "marker59"

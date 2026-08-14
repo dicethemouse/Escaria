@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Searesham) Regiment"
 entity_id: "poi:military:7:1"
 source_id: "7:1"

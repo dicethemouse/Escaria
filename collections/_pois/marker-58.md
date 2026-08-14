@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kozyolde Battlefield"
 entity_id: "poi:marker:58"
 source_id: "marker58"

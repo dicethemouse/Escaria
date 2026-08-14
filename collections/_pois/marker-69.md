@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Yumankay Battlefield"
 entity_id: "poi:marker:69"
 source_id: "marker69"

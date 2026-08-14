@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Bobelese Lighthouse"
 entity_id: "poi:marker:29"
 source_id: "marker29"

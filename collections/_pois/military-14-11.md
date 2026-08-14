@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "12th (Nobles) Regiment"
 entity_id: "poi:military:14:11"
 source_id: "14:11"

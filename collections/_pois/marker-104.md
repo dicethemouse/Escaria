@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Rhamnatis Forest"
 entity_id: "poi:marker:104"
 source_id: "marker104"

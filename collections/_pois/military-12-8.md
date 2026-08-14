@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "9th (Kesenbyurt) Regiment"
 entity_id: "poi:military:12:8"
 source_id: "12:8"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Kirbuteria) Regiment"
 entity_id: "poi:military:5:1"
 source_id: "5:1"

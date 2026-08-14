@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Yayaztopyurt) Regiment"
 entity_id: "poi:military:12:5"
 source_id: "12:5"

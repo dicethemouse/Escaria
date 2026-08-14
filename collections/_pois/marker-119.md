@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Viohma Forest"
 entity_id: "poi:marker:119"
 source_id: "marker119"

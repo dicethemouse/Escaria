@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Schliberg Lighthouse"
 entity_id: "poi:marker:31"
 source_id: "marker31"

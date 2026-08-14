@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ohlsberg Pinery"
 entity_id: "poi:marker:128"
 source_id: "marker128"

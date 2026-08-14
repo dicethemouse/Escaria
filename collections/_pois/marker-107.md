@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kylvakuhajo Forest"
 entity_id: "poi:marker:107"
 source_id: "marker107"

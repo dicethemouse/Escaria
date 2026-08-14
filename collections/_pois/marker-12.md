@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Swasal — iron mining town"
 entity_id: "poi:marker:12"
 source_id: "marker12"

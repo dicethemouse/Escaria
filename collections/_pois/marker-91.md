@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Thetrere Monster"
 entity_id: "poi:marker:91"
 source_id: "marker91"

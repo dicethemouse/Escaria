@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Agosindyria) Regiment"
 entity_id: "poi:military:4:1"
 source_id: "4:1"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Cambrigan Lighthouse"
 entity_id: "poi:marker:30"
 source_id: "marker30"

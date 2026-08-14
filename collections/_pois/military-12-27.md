@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "28th (Kumkaroke) Regiment"
 entity_id: "poi:military:12:27"
 source_id: "12:27"

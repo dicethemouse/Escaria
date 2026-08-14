@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Pfafringen) Regiment"
 entity_id: "poi:military:8:1"
 source_id: "8:1"

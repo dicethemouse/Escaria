@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Dury) Regiment"
 entity_id: "poi:military:5:2"
 source_id: "5:2"

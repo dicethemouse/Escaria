@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Yhavalaki Idol"
 entity_id: "poi:marker:145"
 source_id: "marker145"

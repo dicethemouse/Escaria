@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "13th (Olicargan) Regiment"
 entity_id: "poi:military:4:12"
 source_id: "4:12"

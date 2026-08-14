@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Knutster Volcano"
 entity_id: "poi:marker:1"
 source_id: "marker1"

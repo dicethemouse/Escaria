@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Monchlinbach Waterfall"
 entity_id: "poi:marker:53"
 source_id: "marker53"

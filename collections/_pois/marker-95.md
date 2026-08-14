@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Aman Undead"
 entity_id: "poi:marker:95"
 source_id: "marker95"

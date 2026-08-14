@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ayayruzun Portal"
 entity_id: "poi:marker:190"
 source_id: "marker190"

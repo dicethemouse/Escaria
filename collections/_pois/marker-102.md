@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Fernandodu Giant"
 entity_id: "poi:marker:102"
 source_id: "marker102"

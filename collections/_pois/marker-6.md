@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Beydekiken Creek of Luck"
 entity_id: "poi:marker:6"
 source_id: "marker6"

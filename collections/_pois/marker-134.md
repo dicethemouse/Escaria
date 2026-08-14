@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Joliveville Stele"
 entity_id: "poi:marker:134"
 source_id: "marker134"

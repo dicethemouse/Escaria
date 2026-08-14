@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Montcria) Regiment"
 entity_id: "poi:military:11:3"
 source_id: "11:3"

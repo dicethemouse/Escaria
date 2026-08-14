@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Grantham"
 entity_id: "poi:marker:2"
 source_id: "marker2"

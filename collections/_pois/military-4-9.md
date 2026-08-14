@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "10th (Agosindyria) Regiment"
 entity_id: "poi:military:4:9"
 source_id: "4:9"

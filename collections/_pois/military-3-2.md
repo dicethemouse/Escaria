@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Aberporth) Regiment"
 entity_id: "poi:military:3:2"
 source_id: "3:2"

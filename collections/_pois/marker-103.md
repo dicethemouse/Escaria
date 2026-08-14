@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Oieillonte Forest"
 entity_id: "poi:marker:103"
 source_id: "marker103"

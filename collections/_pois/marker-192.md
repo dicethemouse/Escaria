@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Subterranean Rift"
 entity_id: "poi:marker:192"
 source_id: "marker192"

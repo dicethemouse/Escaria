@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Bolinadusia) Regiment"
 entity_id: "poi:military:11:2"
 source_id: "11:2"

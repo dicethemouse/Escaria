@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Disturbed Burial"
 entity_id: "poi:marker:199"
 source_id: "marker199"

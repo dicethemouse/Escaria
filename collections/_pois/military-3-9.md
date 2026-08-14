@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "10th (Bouaigaiglos) Regiment"
 entity_id: "poi:military:3:9"
 source_id: "3:9"

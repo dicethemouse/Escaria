@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "12th (Urra) Regiment"
 entity_id: "poi:military:4:11"
 source_id: "4:11"

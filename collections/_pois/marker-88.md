@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Poykut Monster"
 entity_id: "poi:marker:88"
 source_id: "marker88"

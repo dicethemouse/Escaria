@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Raran Lighthouse"
 entity_id: "poi:marker:17"
 source_id: "marker17"

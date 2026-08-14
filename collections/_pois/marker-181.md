@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Icealinia Hole"
 entity_id: "poi:marker:181"
 source_id: "marker181"

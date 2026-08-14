@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Buykuteli) Regiment"
 entity_id: "poi:military:15:5"
 source_id: "15:5"

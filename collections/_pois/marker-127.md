@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Aski Forest"
 entity_id: "poi:marker:127"
 source_id: "marker127"

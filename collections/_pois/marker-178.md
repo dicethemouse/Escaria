@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Comeilliers Chasm"
 entity_id: "poi:marker:178"
 source_id: "marker178"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Hagendorf) Regiment"
 entity_id: "poi:military:9:3"
 source_id: "9:3"

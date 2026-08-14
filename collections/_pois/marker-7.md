@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Sarpraklu Healing Spring"
 entity_id: "poi:marker:7"
 source_id: "marker7"

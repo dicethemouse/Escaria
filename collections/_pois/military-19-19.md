@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "20th (Waresto) Regiment"
 entity_id: "poi:military:19:19"
 source_id: "19:19"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Oguzli Stele"
 entity_id: "poi:marker:137"
 source_id: "marker137"

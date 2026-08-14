@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Torgolo Cave"
 entity_id: "poi:marker:180"
 source_id: "marker180"

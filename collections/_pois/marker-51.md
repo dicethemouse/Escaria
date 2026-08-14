@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Aberkeith Waterfall"
 entity_id: "poi:marker:51"
 source_id: "marker51"

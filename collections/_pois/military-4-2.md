@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Invermainia) Regiment"
 entity_id: "poi:military:4:2"
 source_id: "4:2"

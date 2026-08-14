@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Manttoinaro Battlefield"
 entity_id: "poi:marker:81"
 source_id: "marker81"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ruined Settlement"
 entity_id: "poi:marker:154"
 source_id: "marker154"

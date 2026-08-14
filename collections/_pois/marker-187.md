@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Turanva Portal"
 entity_id: "poi:marker:187"
 source_id: "marker187"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Ivria) Regiment"
 entity_id: "poi:military:2:1"
 source_id: "2:1"

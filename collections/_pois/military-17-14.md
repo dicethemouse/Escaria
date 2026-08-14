@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "15th (New Sazkay) Regiment"
 entity_id: "poi:military:17:14"
 source_id: "17:14"

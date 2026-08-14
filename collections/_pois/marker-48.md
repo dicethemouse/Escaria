@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Givran Lighthouse"
 entity_id: "poi:marker:48"
 source_id: "marker48"

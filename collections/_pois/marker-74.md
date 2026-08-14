@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Persbore Battlefield"
 entity_id: "poi:marker:74"
 source_id: "marker74"

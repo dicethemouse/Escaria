@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "15th (Raritavori) Regiment"
 entity_id: "poi:military:10:14"
 source_id: "10:14"

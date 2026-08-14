@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "12th (Aberporth) Regiment"
 entity_id: "poi:military:3:11"
 source_id: "3:11"

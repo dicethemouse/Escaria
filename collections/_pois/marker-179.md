@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Inversochla Grotto"
 entity_id: "poi:marker:179"
 source_id: "marker179"

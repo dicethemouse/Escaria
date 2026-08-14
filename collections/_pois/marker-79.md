@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Taurion Battlefield"
 entity_id: "poi:marker:79"
 source_id: "marker79"

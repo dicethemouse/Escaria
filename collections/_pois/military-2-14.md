@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "15th (New Myrinogia) Regiment"
 entity_id: "poi:military:2:14"
 source_id: "2:14"

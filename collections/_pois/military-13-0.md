@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Messes) Regiment"
 entity_id: "poi:military:13:0"
 source_id: "13:0"

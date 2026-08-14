@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Munsbach) Regiment"
 entity_id: "poi:military:1:3"
 source_id: "1:3"

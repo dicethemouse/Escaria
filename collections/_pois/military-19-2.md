@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Berton) Regiment"
 entity_id: "poi:military:19:2"
 source_id: "19:2"

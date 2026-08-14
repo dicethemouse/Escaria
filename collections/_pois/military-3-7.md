@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "8th (Bhrunos) Regiment"
 entity_id: "poi:military:3:7"
 source_id: "3:7"

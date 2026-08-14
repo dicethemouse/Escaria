@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Sannessas) Regiment"
 entity_id: "poi:military:2:3"
 source_id: "2:3"

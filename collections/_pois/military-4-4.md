@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "5th (Areruria) Regiment"
 entity_id: "poi:military:4:4"
 source_id: "4:4"

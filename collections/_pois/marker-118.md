@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Yaztoprak Forest"
 entity_id: "poi:marker:118"
 source_id: "marker118"

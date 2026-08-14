@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kahar Yur Hag"
 entity_id: "poi:marker:97"
 source_id: "marker97"

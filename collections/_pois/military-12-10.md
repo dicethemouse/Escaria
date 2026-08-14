@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "11th (Derinbey) Regiment"
 entity_id: "poi:military:12:10"
 source_id: "12:10"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Yasyurt) Regiment"
 entity_id: "poi:military:17:3"
 source_id: "17:3"

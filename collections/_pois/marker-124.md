@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Vilpulai Forest"
 entity_id: "poi:marker:124"
 source_id: "marker124"

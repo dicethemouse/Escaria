@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "23rd (Erkanesen) Regiment"
 entity_id: "poi:military:12:22"
 source_id: "12:22"

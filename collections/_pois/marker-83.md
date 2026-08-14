@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Guarnedinono Monster"
 entity_id: "poi:marker:83"
 source_id: "marker83"

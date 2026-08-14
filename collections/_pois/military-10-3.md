@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Resia) Regiment"
 entity_id: "poi:military:10:3"
 source_id: "10:3"

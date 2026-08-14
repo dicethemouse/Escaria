@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Purjari Forest"
 entity_id: "poi:marker:115"
 source_id: "marker115"

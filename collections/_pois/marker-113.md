@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Isachin Forest"
 entity_id: "poi:marker:113"
 source_id: "marker113"

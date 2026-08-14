@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "7th (Maldock) Regiment"
 entity_id: "poi:military:19:6"
 source_id: "19:6"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Galokseki) Regiment"
 entity_id: "poi:military:17:0"
 source_id: "17:0"

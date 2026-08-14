@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Torzuenana Battlefield"
 entity_id: "poi:marker:66"
 source_id: "marker66"

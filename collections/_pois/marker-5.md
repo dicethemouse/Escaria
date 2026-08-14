@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Hot Springs of Celca"
 entity_id: "poi:marker:5"
 source_id: "marker5"

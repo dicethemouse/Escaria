@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Hochenschw Portal"
 entity_id: "poi:marker:188"
 source_id: "marker188"

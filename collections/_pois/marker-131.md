@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Opnafrost Megalith"
 entity_id: "poi:marker:131"
 source_id: "marker131"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Baltun Column"
 entity_id: "poi:marker:141"
 source_id: "marker141"

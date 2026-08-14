@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "13th (Aunesardon) Regiment"
 entity_id: "poi:military:2:12"
 source_id: "2:12"

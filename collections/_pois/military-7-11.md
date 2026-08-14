@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "12th (Mitherslia) Regiment"
 entity_id: "poi:military:7:11"
 source_id: "7:11"

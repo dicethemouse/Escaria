@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "14th (Paisa) Regiment"
 entity_id: "poi:military:12:13"
 source_id: "12:13"

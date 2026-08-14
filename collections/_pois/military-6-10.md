@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "11th (Grotatia) Regiment"
 entity_id: "poi:military:6:10"
 source_id: "6:10"

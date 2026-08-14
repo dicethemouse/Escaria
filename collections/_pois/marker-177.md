@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Boba Cavern"
 entity_id: "poi:marker:177"
 source_id: "marker177"

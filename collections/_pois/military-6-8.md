@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "9th (Rorumia) Regiment"
 entity_id: "poi:military:6:8"
 source_id: "6:8"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Abergaber Waterfall"
 entity_id: "poi:marker:52"
 source_id: "marker52"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ruined Sacred site"
 entity_id: "poi:marker:149"
 source_id: "marker149"

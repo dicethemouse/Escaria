@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (North) Regiment"
 entity_id: "poi:military:19:1"
 source_id: "19:1"

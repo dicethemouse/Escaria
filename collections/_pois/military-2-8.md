@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "9th (Orquileresia) Regiment"
 entity_id: "poi:military:2:8"
 source_id: "2:8"

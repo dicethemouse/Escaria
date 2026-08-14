@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "13th (Abeynak) Regiment"
 entity_id: "poi:military:12:12"
 source_id: "12:12"

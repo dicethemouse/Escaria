@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Enesetia) Regiment"
 entity_id: "poi:military:18:3"
 source_id: "18:3"

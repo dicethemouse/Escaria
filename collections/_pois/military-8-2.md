@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Bazyoleli) Regiment"
 entity_id: "poi:military:8:2"
 source_id: "8:2"

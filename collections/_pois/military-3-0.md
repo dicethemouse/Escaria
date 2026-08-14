@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Maberleithia) Regiment"
 entity_id: "poi:military:3:0"
 source_id: "3:0"

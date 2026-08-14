@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "16th (Contialisia) Regiment"
 entity_id: "poi:military:17:15"
 source_id: "17:15"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Vellena Portal"
 entity_id: "poi:marker:185"
 source_id: "marker185"

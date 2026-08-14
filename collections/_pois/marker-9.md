@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Sonte — salt mining town"
 entity_id: "poi:marker:9"
 source_id: "marker9"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Labriamigna Battlefield"
 entity_id: "poi:marker:75"
 source_id: "marker75"

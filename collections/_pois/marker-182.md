@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Grambedondo Portal"
 entity_id: "poi:marker:182"
 source_id: "marker182"

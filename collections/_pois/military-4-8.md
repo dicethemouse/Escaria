@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "9th (Errerangia) Regiment"
 entity_id: "poi:military:4:8"
 source_id: "4:8"

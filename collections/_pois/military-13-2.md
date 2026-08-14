@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Camponetevig) Regiment"
 entity_id: "poi:military:13:2"
 source_id: "13:2"

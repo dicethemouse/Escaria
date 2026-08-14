@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "18th (Helsolenia) Regiment"
 entity_id: "poi:military:10:17"
 source_id: "10:17"

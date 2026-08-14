@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "10th (Corvilter) Regiment"
 entity_id: "poi:military:2:9"
 source_id: "2:9"

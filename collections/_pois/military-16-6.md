@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "7th (Pegera) Regiment"
 entity_id: "poi:military:16:6"
 source_id: "16:6"

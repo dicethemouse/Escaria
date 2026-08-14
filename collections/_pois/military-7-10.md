@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "11th (Winetonbia) Regiment"
 entity_id: "poi:military:7:10"
 source_id: "7:10"

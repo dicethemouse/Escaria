@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kalgarci Battlefield"
 entity_id: "poi:marker:68"
 source_id: "marker68"

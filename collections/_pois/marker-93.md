@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Southin Monster"
 entity_id: "poi:marker:93"
 source_id: "marker93"

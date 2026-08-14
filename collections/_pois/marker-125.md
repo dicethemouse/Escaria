@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kovala Forest"
 entity_id: "poi:marker:125"
 source_id: "marker125"

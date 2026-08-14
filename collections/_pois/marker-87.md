@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Schwonafen Monster"
 entity_id: "poi:marker:87"
 source_id: "marker87"

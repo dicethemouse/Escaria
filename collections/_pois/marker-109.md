@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Duibhidig Forest"
 entity_id: "poi:marker:109"
 source_id: "marker109"

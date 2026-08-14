@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Hot Springs of Intaberthin"
 entity_id: "poi:marker:3"
 source_id: "marker3"

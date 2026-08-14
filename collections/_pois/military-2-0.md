@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Charvillenest) Regiment"
 entity_id: "poi:military:2:0"
 source_id: "2:0"

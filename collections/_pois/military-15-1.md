@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Sereli) Regiment"
 entity_id: "poi:military:15:1"
 source_id: "15:1"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Eruro Troll"
 entity_id: "poi:marker:101"
 source_id: "marker101"

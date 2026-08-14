@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Ruined Castle"
 entity_id: "poi:marker:161"
 source_id: "marker161"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Loutham Pillar"
 entity_id: "poi:marker:144"
 source_id: "marker144"

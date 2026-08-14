@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Alprak) Regiment"
 entity_id: "poi:military:14:5"
 source_id: "14:5"

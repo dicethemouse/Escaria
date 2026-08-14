@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Bildepekian Lighthouse"
 entity_id: "poi:marker:24"
 source_id: "marker24"

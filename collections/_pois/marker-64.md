@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kurt Battlefield"
 entity_id: "poi:marker:64"
 source_id: "marker64"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "11th (Bonaraberg) Regiment"
 entity_id: "poi:military:3:10"
 source_id: "3:10"

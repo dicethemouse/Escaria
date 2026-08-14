@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "15th (Berton) Regiment"
 entity_id: "poi:military:19:14"
 source_id: "19:14"

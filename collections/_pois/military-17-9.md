@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "10th (Alvis) Regiment"
 entity_id: "poi:military:17:9"
 source_id: "17:9"

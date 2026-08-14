@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Yuyukayruan Lighthouse"
 entity_id: "poi:marker:28"
 source_id: "marker28"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "3rd (Serte) Regiment"
 entity_id: "poi:military:6:2"
 source_id: "6:2"

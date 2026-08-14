@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Intobhian Lighthouse"
 entity_id: "poi:marker:45"
 source_id: "marker45"

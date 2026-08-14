@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "5th (Strausia) Regiment"
 entity_id: "poi:military:18:4"
 source_id: "18:4"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Agosindyria) Regiment"
 entity_id: "poi:military:4:5"
 source_id: "4:5"

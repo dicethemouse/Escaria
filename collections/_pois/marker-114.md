@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Vitruy Forest"
 entity_id: "poi:marker:114"
 source_id: "marker114"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Kirk Lighthouse"
 entity_id: "poi:marker:37"
 source_id: "marker37"

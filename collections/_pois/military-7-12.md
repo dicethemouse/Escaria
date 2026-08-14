@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "13th (Crafland) Regiment"
 entity_id: "poi:military:7:12"
 source_id: "7:12"

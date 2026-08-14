@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Tofredrigno Battlefield"
 entity_id: "poi:marker:63"
 source_id: "marker63"

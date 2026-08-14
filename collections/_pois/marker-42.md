@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Wiedendinweian Lighthouse"
 entity_id: "poi:marker:42"
 source_id: "marker42"

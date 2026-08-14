@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Fischrin Monument"
 entity_id: "poi:marker:142"
 source_id: "marker142"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Invenek Battlefield"
 entity_id: "poi:marker:78"
 source_id: "marker78"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "7th (Cocheapton) Regiment"
 entity_id: "poi:military:7:6"
 source_id: "7:6"

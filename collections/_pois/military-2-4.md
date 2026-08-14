@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "5th (Marquilles) Regiment"
 entity_id: "poi:military:2:4"
 source_id: "2:4"

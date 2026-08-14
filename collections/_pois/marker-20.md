@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "Monhan Lighthouse"
 entity_id: "poi:marker:20"
 source_id: "marker20"

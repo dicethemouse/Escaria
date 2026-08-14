@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "2nd (Totestable) Regiment"
 entity_id: "poi:military:16:1"
 source_id: "16:1"

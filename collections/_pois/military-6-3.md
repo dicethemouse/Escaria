@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "4th (Celleparno) Regiment"
 entity_id: "poi:military:6:3"
 source_id: "6:3"

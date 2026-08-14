@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "1st (Belternia) Regiment"
 entity_id: "poi:military:8:0"
 source_id: "8:0"

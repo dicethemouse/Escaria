@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "7th (Sezesezia) Regiment"
 entity_id: "poi:military:6:6"
 source_id: "6:6"

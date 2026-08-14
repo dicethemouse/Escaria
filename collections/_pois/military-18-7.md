@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "8th (Nehamn) Regiment"
 entity_id: "poi:military:18:7"
 source_id: "18:7"

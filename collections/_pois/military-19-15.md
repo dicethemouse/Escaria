@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "16th (Yramka) Regiment"
 entity_id: "poi:military:19:15"
 source_id: "19:15"

@@ -1,5 +1,4 @@
 ---
-# BEGIN AULONIA AUTO-GENERATED DATA
 title: "6th (Uxbronere) Regiment"
 entity_id: "poi:military:19:5"
 source_id: "19:5"
