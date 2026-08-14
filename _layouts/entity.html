@@ -1,0 +1,93 @@
+---
+layout: default
+---
+
+<article class="entity">
+
+  <header class="entity-header">
+
+    <div class="entity-kicker">
+      {{ page.entity_type_label | default: page.category }}
+    </div>
+
+    <h1>{{ page.title }}</h1>
+
+    {% if page.summary and page.summary != "" %}
+      <p class="entity-summary">
+        {{ page.summary }}
+      </p>
+    {% endif %}
+
+  </header>
+
+  <div class="entity-layout">
+
+    <section class="entity-content">
+
+      {{ content }}
+
+    </section>
+
+    <aside class="entity-sidebar">
+
+      <h2>Daten</h2>
+
+      <dl class="metadata">
+
+        {% if page.entity_id %}
+          <dt>ID</dt>
+          <dd>{{ page.entity_id }}</dd>
+        {% endif %}
+
+        {% if page.subtype %}
+          <dt>Typ</dt>
+          <dd>{{ page.subtype }}</dd>
+        {% endif %}
+
+        {% if page.state_name %}
+          <dt>Staat</dt>
+          <dd>
+            {% if page.state_id %}
+              <a href="{{ '/states/' | append: page.state_id | append: '/' | relative_url }}">
+                {{ page.state_name }}
+              </a>
+            {% else %}
+              {{ page.state_name }}
+            {% endif %}
+          </dd>
+        {% endif %}
+
+        {% if page.province_name %}
+          <dt>Provinz</dt>
+          <dd>
+            {% if page.province_id %}
+              <a href="{{ '/provinces/' | append: page.province_id | append: '/' | relative_url }}">
+                {{ page.province_name }}
+              </a>
+            {% else %}
+              {{ page.province_name }}
+            {% endif %}
+          </dd>
+        {% endif %}
+
+        {% if page.population %}
+          <dt>Bevölkerung</dt>
+          <dd>
+            {{ page.population }}
+          </dd>
+        {% endif %}
+
+        {% if page.height_m %}
+          <dt>Höhe</dt>
+          <dd>
+            {{ page.height_m }} m
+          </dd>
+        {% endif %}
+
+      </dl>
+
+    </aside>
+
+  </div>
+
+</article>
